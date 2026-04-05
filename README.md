@@ -1,4 +1,4 @@
-# 🎨 Neural Style Transfer Mini-Project
+# 🎨 Neural Style Transfer 
 
 A simple, beginner-friendly web application built with Python and Streamlit. This app applies the artistic style of one image to another using a pre-trained deep learning model from TensorFlow Hub.
 
