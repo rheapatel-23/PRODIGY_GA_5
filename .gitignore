@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+
+# Datasets
+datasets/
+
+# MacOS
+.DS_Store
